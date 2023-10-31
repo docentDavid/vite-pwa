@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCvnXv8QR0I3Y8xJtmXWYKTaaTtltjum9E",
-  authDomain: "vite-auth-2452d.firebaseapp.com",
-  projectId: "vite-auth-2452d",
-  storageBucket: "vite-auth-2452d.appspot.com",
-  messagingSenderId: "316357727356",
-  appId: "1:316357727356:web:fa2eb7480452f7b657a5f9",
+  apiKey: "AIzaSyA9DuUI61aRPaI17FBEQPivpaNzgYkJo3U",
+  authDomain: "vite-pwa-eb4fe.firebaseapp.com",
+  projectId: "vite-pwa-eb4fe",
+  storageBucket: "vite-pwa-eb4fe.appspot.com",
+  messagingSenderId: "510873709577",
+  appId: "1:510873709577:web:047815f11c56b5b9a3dcd8",
 };
 
 const app = initializeApp(firebaseConfig);
